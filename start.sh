@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=edc2f07e-266d-4672-be38-39b426bb2fcc
+AUUID=c9c84c14-3066-4b96-ad58-9ab545bb87d3
 CADDYIndexPage=https://github.com/wulabing/3DCEList/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/kk3948/arsegugd/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/kk3948/arsegugd/master/etc/xray.json
